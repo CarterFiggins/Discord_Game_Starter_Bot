@@ -1,0 +1,1 @@
+# Discord Starter bot in GO!
