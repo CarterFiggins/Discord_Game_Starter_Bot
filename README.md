@@ -1,1 +1,1 @@
-# Discord Starter bot in GO!
+# Discord Game Starter bot in GO!
